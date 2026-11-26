@@ -1,6 +1,6 @@
 # 🏥 TeleCare — Cuidado conectado
 
-Sistema Laravel para gestão de pacientes, profissionais, especialidades, prontuários,
+Sistema PHP/Laravel para gestão de pacientes, profissionais, especialidades, prontuários,
 agenda e autenticação com recuperação de senha por e-mail.
 
 ## Funcionalidades disponíveis

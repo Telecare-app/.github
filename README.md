@@ -15,31 +15,38 @@ agenda e autenticação com recuperação de senha por e-mail.
 
 ### Login
 
-![Tela de login](docs/screenshots/login.png)
+<img width="722" height="876" alt="image" src="https://github.com/user-attachments/assets/c1d9594d-fa1a-4b7f-9e86-a39352d625ed" />
+
 
 ### Criar conta
 
-![Tela de cadastro](docs/screenshots/register.png)
+<img width="722" height="876" alt="image" src="https://github.com/user-attachments/assets/2cda6a54-793f-45c5-a4bf-d174a08fa89b" />
+
 
 ### Recuperar senha
 
-![Tela de recuperação de senha](docs/screenshots/forgot-password.png)
+<img width="722" height="876" alt="image" src="https://github.com/user-attachments/assets/9b8e242f-5360-4c14-af7c-e6659fb957be" />
+
 
 ### Cadastrar cliente
 
-![Tela de cadastro de cliente](docs/screenshots/cadastrar-cliente.png)
+<img width="933" height="2104" alt="image" src="https://github.com/user-attachments/assets/ea0e0ca6-e2ce-4f1a-9727-9759f4b27c30" />
+
 
 ### Cadastrar médico
 
-![Tela de cadastro de médico](docs/screenshots/cadastrar-medico.png)
+<img width="933" height="1839" alt="image" src="https://github.com/user-attachments/assets/0d49ee9e-36c3-4c54-837f-d77cb3f174f3" />
+
 
 ### Cadastrar secretária
 
-![Tela de cadastro de secretária](docs/screenshots/cadastrar-secretaria.png)
+<img width="933" height="1714" alt="image" src="https://github.com/user-attachments/assets/6431d499-8d64-4909-bbff-7b4755c904fc" />
+
 
 ### Cadastrar especialidade
 
-![Tela de cadastro de especialidade](docs/screenshots/cadastrar-especialidade.png)
+<img width="933" height="1336" alt="image" src="https://github.com/user-attachments/assets/5e22f6a3-641e-4ccf-b837-9cbc32f17a91" />
+
 
 ## Como executar após clonar
 
